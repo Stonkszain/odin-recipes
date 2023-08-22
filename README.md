@@ -1,5 +1,7 @@
 # odin-recipes
 
+View the website live: https://stonkszain.github.io/odin-recipes/
+
 This website consists of a main index page which will have links to different recipes. It consists of pure HTML
 
 This project is part of The Odin Project
