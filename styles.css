@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 40px;
+    background-color: #ffe1e1;
+}
+
+h1 {
+    background-color: #ff8a8a;
+    color: #FFF;
+    text-align: center;
+}
+
+img {
+    max-width: 1000px;
+    width: 100%;
+}
+
+h2 {
+    color: #ff8a8a;
+}
+
+a:hover {
+    text-decoration: line-through;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
